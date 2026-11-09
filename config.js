@@ -1,6 +1,6 @@
 // Edit this file to update the website. Fundraising totals are manual unless an approved API is connected.
 window.SITE_CONFIG = {
-  raised: 200,
+  raised: 275,
   goal: 12000,
   auctionUrl: '', // Add auction URL when ready
   events: [
